@@ -14,10 +14,10 @@
 #####    Nessa Parte terá a lista com seus registros e acesso aos botão que dão acesso a pagina Adicionar Jogos
 
 #### - **Adicionar Jogos**
-#####    Nessa Parte irá adicionar um 
+#####    Nessa Parte irá adicionar jogos para lista
 
 #### - **Atualizar Dados**
-
+#####    Nessa Parte irá atualizar jogos existentes para lista
 
 
 
