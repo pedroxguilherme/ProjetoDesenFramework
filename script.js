@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded'), function(){
 
 
     }
-
+/*
     function DeletarJogo(jogoId) {
         fetch(`${apiUrl}/${jogoId}`, {
             method: 'DELETE',
@@ -54,6 +54,7 @@ document.addEventListener('DOMContentLoaded'), function(){
 
 
 
+*/
 
 
 }
