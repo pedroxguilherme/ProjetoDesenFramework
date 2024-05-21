@@ -34,6 +34,12 @@ document.addEventListener('DOMContentLoaded', function(){
                     `;
                     jogoBody.innerHTML += row;
                 });
+                document.querySelectorAll('.btn-deletar').forEach(button => {
+                    button.addEventListener('click', function() {
+                        const jogoId = this.getAttribute('data-id');
+                        deletarJogo(jogoId);
+                    });
+                });
             })
             .catch(error => console.error('Erro ao carregar os jogos:', error));
 
@@ -41,6 +47,13 @@ document.addEventListener('DOMContentLoaded', function(){
 
     }
     carregarJogos();
+    
+    
+
+
+
+
+
 
 
    function deletarJogo(jogoId) {
@@ -63,4 +76,4 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
 
-})
+});

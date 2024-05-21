@@ -1,25 +1,3 @@
 {
-    "jogos": [
-      {
-        "id": "1",
-        "nome": "Mortal Kombat",
-        "autor": "Ed Boon",
-        "Descricao": "Jogo de Luta",
-        "disponivel": false
-      },
-      {
-        "id": "2",
-        "nome": "Counter Strike",
-        "autor": "Gabe newell",
-        "Descricao": "jogo de tiro",
-        "disponivel": true
-      },
-      {
-        "id": "3",
-        "nome": "FIFA",
-        "autor": "Jamie Toghill",
-        "Descricao": "Jogo de Futebol",
-        "disponivel": false
-      }
-    ]
-  }
+  "jogos": []
+}
