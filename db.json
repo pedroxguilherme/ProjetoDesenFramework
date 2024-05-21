@@ -1,3 +1,18 @@
 {
-  "jogos": []
+  "jogos": [
+    {
+      "id": "2",
+      "nome": "Counter Strike",
+      "autor": "Gabe newell",
+      "genero": "Jogo de tiro",
+      "disponivel": true
+    },
+    {
+      "id": "3",
+      "nome": "Fifa",
+      "autor": "Jamie Toghill",
+      "genero": "Jogo de Futebol",
+      "disponivel": true
+    }
+  ]
 }
