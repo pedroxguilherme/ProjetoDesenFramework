@@ -7,20 +7,22 @@
 ### Neste projeto será separado em 4 páginas:
 
 #### - **Home**
-##### Nessa Parte terá uma introdução do Site Com HTML e CSS, Com acesso a Lista
+##### Nessa Parte terá uma introdução do Site Com HTML e CSS, Com acesso a lista e funções no menu abaixo:
 
 
-#### - **Lista De Jogos**
-#####    Nessa Parte terá a lista com seus registros com botão de delete e acesso aos botão que dão acesso a pagina Adicionar Jogos e Update
+#### - **Remover Jogos**
+#####    Nessa Parte terá a lista com seus registros e com um botão de delete por linha para remover seus registros
+#####    Botão home para voltar para o index
 
 #### - **Adicionar Jogos**
 #####    Terá Infos detalhadas dos Jogos
 #####    Nessa Parte irá adicionar jogos para lista 
+#####    Botão home para voltar para o index
 
 #### - **Atualizar Dados**
 #####    Terá Infos detalhadas dos Jogos
 #####    Nessa Parte irá atualizar jogos existentes para lista
-
+#####    Botão home para voltar para o index
 
 
 

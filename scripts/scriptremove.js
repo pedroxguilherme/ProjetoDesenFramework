@@ -27,9 +27,7 @@ document.addEventListener('DOMContentLoaded', function(){
                             <td>
                                 <button class="btn btn-danger btn-deletar" data-id="${jogo.id}">Deletar ${jogo.id}</button>
                             </td>
-                            <td>
-                                <button class="btn btn btn-primary btn-update" data-id="${jogo.id}">Update ${jogo.id}</button>
-                            </td>
+                            
                         </tr>
                     `;
                     jogoBody.innerHTML += row;
