@@ -3,8 +3,8 @@
 
 ### **Este é um projeto feito por Caio, Cassio e Pedro. Com intuito de fazer um lista de jogos**
 
-
-### Neste projeto será separado em 4 páginas:
+### utilizar json-server, ao qual arquivo db.json está na pasta form-api
+### Neste projeto será separado em 4 páginas :
 
 #### - **Home**
 ##### Nessa Parte terá uma introdução do Site Com HTML e CSS, Com acesso a lista e funções no menu abaixo:
