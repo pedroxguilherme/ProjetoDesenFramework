@@ -3,7 +3,7 @@
 
 ### **Este é um projeto feito por Caio, Cassio e Pedro. Com intuito de fazer um lista de jogos**
 
-### utilizar json-server, ao qual arquivo db.json está na pasta form-api
+### **utilizar json-server, ao qual arquivo db.json está na pasta form-api**
 ### Neste projeto será separado em 4 páginas :
 
 #### - **Home**
